@@ -1,5 +1,7 @@
+## Soal :
+<img src="file/soal1.png" alt="Logo" width="100%" height="auto"/>
 
-### Jawaban :
+## Jawaban :
 
 #### DDL (Data Definition Language), kelompok query yang berkaitan dengan pembuatan struktur tabel dan database.
 #### Contoh:

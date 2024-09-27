@@ -1,4 +1,7 @@
-### Jawaban 3 a.
+## Soal :
+<img src="file/soal3.png" alt="Logo" width="100%" height="auto"/>
+
+## Jawaban 3 a.
 ```sql
 SELECT
     order_date
@@ -13,7 +16,7 @@ HAVING COUNT(*) = (
 )
 ```
 
-### Jawaban 3 b.
+## Jawaban 3 b.
 ```sql
 SELECT
     order_date
@@ -28,7 +31,7 @@ HAVING COUNT(*) = (
 )
 ```
 
-### Jawaban 3 c.
+## Jawaban 3 c.
 ```sql
 SELECT
     c.*

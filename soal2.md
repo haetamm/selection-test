@@ -1,5 +1,7 @@
+## Soal :
+<img src="file/soal2.png" alt="Logo" width="100%" height="auto"/>
 
-### Jawaban :
+## Jawaban :
 
 #### JOIN adalah query yang digunakan untuk menggabungkan beberapa tabel.
 #### Contoh:
